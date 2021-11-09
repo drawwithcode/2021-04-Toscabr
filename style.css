@@ -6,3 +6,15 @@ html, body {
 canvas {
   display: block;
 }
+
+.button {
+  border: none;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  font-family:  "Courier New";
+  font-weight: bold;
+}
+
